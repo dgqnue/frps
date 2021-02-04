@@ -103,4 +103,4 @@ docker restart frps
 - GitHub [BugP/frps](https://github.com/BugP/frps)
 - Docker [BugP/frps](https://hub.docker.com/r/bugp/frps)
 - 原版frp项目 [fatedier/frp](https://github.com/fatedier/frp)
-- [CentOS 7 安装配置frp内网穿透服务器端教程](https://www.sonteng.cn/5.html)
+- [CentOS 7 安装配置frp内网穿透服务器端教程](https://www.sonteng.cn/24.html)
