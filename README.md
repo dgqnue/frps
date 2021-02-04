@@ -35,7 +35,7 @@ wget https://raw.githubusercontent.com/BugP/frps/master/frps_linux_uninstall.sh 
 - 修改脚本链接并运行
 
 #### 修改 frps_linux_install.sh 脚本
-`FRP_VERSION="0.30.0"` 可根据原版项目更新自行修改为最新版本  
+`FRP_VERSION="0.35.1"` 可根据原版项目更新自行修改为最新版本  
 `REPO="BugP/frps"` 由于 **fork** 到你自己的仓库,需修改`BugP`为你的GitHub账号ID.
 
 #### 运行一键脚本
